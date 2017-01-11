@@ -10,8 +10,8 @@ public class Application {
         
         System.out.print("Please enter numbers to add: ");
         
-        String numbers = reader.readLine();
+        int sum = new StringCalculator().add(reader.readLine());
         
-        System.out.println(numbers);
+        System.out.println(sum);
     }
 }

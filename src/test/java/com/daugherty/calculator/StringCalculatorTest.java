@@ -25,7 +25,7 @@ public class StringCalculatorTest {
 		exception.expect(UnsupportedOperationException.class);
 		exception.expectMessage("You can delete the test for this exception.");
 		
-		calculator.add();
+		calculator.add("");
 	}
 
 }
