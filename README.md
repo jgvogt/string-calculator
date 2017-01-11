@@ -24,10 +24,10 @@ Right Click Project -> Run As -> Java Application
 
 ## Exercises
 Write JUnit Tests that will support the following requirements:  
-1. An empty string returns zero
-2. A single number returns the value
-3. Two numbers, comma delimited, returns the sum
-4. Two numbers, newline delimited, returns the sum
-5. Three numbers, delimited either way, returns the sum
-6. Negative numbers throw an NegativeNumberException
-7. Numbers greater than 1000 are ignored
+1.  An empty string returns zero
+2.  A single number returns the value
+3.  Two numbers, comma delimited, returns the sum
+4.  Two numbers, newline delimited, returns the sum
+5.  Three numbers, delimited either way, returns the sum
+6.  Negative numbers throw an NegativeNumberException
+7.  Numbers greater than 1000 are ignored
